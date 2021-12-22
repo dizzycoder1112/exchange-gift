@@ -1,0 +1,9 @@
+version: "3"
+
+services: 
+    lots:
+        container_name: lots
+        image: happy-lots
+        build: .
+        volumes:
+            - ./data/data.csv:/data/data.csv
