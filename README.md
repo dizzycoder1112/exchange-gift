@@ -3,10 +3,14 @@
 
 1.Mac版本
 
-`ssh root:143.244.155.191`
+```
+ssh root:143.244.155.191
+```
 
 密碼找我要
 
 執行
 
-`docker run -it -v ~/lots:/app -w /app node yarn run start`
+```
+docker run -it -v ~/lots:/app -w /app node yarn run start
+```

@@ -1,8 +1,8 @@
 name,isDrawn,hasDrawn,giftReceiver
-晴晴,false,true,Zander
+晴晴,false,false,
 馬蹄,false,false,
 Champer,false,false,
-Zander,true,false,
+Zander,false,false,
 丹尼爾,false,false,
 阿凱,false,false,
 MAYA,false,false,
